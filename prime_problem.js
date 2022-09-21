@@ -9,5 +9,5 @@ let n=10;
         break;
     }
 }
- prime===true?console.log("Yes"):console.log("Yes");
+ prime===true?console.log("Yes"):console.log("No");
  }
