@@ -3,7 +3,7 @@ let n=10;
  if(n==1){
     console.log("No);
  }  else { 
- for(i=2;i<=n/2;i++){
+ for(let i=2;i<=n/2;i++){
     if(n%i===0){
         prime=false;
         break;
