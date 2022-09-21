@@ -4,10 +4,10 @@ let n=10;
     console.log('No');
  }  else { 
  for(i=2;i<n;i++){
-    if(n%i===0){
+    if(n%i===1){
         prime=false;
         break;
     }
 }
- prime===true?console.log("Yes"):console.log("No");
+ prime===true?console.log("Yes"):console.log("yes");
  }
